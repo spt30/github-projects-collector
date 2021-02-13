@@ -1,3 +1,5 @@
+// Копируем буфер в эксель-формате
+
 let count = 0;
 
 const res = [...document.getElementsByClassName('project-column')].reverse().map(column => {
